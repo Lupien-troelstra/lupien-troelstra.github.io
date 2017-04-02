@@ -1,0 +1,39 @@
+body{
+	background-image: url("../img/brighton.jpg");
+	background-size: cover;
+}
+h1{
+	color: black;
+	text-align: left;
+	margin-left: 150px;
+	font-family:"arial";
+	font-size: 100px;
+
+}
+h2{
+	font-family:"arial";
+	margin-left: 200px;
+	color: black;
+
+}
+.fa{
+	font-size: 100px;
+	color: black;
+
+}
+
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkbox-round:checked {
+    background-color: gray;
+}
